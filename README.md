@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I’m Saadman.
 
-<!--
-**Saadman-Chowdhury-git/Saadman-Chowdhury-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently graduated in Statistics & Finance and am building a project portfolio focused on data analytics, statistical modeling, and predictive insights.
 
-Here are some ideas to get you started:
+I am currently developing a portfolio of real-world projects that will be uploaded progressively over the coming months. These will cover:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Exploratory Data Analysis and Regression Modeling  
+- End-to-end data analytics workflows  
+- Predictive modeling and statistical learning  
+- Causal analysis and experimental design  
+- Genetic algorithm optimization of neural networks for credit risk  
+
+My goal is to showcase practical problem solving and data-driven decision making.
+
+### 🌱 Currently Learning
+- Time series analysis and forecasting  
+- Multivariate statistical modeling  
+
+If you have any questions or would like to connect, feel free to reach out via email or phone. I’m always happy to discuss data, analytics, and new opportunities.
