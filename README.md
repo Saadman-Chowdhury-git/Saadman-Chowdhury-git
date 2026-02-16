@@ -12,7 +12,7 @@ I am currently developing a portfolio of real-world projects that will be upload
 
 My goal is to showcase practical problem solving and data-driven decision making.
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning for project building
 - Time series analysis and forecasting  
 - Multivariate statistical modeling  
 
